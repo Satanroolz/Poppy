@@ -38,4 +38,4 @@ print(early)
 
 
 #Token
-client.run('NzA4NTc2MDQxODY5OTAxODQ0.XrZXMw.Zb0RKRINQ3tLnx1pbEpRbVapEZ8')
+client.run('$TOKEN')
