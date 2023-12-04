@@ -2,4 +2,3 @@ bs4
 requests
 discord
 pandas
-urllib
